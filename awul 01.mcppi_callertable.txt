@@ -1,7 +1,0 @@
-main
-	__CC2DW
-		____DoICP
-	line_following
-	obs_detec
-		ADC_Read
-			Delay_22us
